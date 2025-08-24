@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "created_at": "2023-01-15T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "created_at": "2023-02-20T14:45:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Robert Johnson",
+    "email": "robert.j@example.com",
+    "created_at": "2023-03-10T09:15:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "created_at": "2023-04-05T16:20:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Michael Wilson",
+    "email": "michael.w@example.com",
+    "created_at": "2023-05-12T11:30:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Brown",
+    "email": "sarah.brown@example.com",
+    "created_at": "2023-06-18T13:45:00.000Z"
+  },
+  {
+    "id": 7,
+    "name": "David Miller",
+    "email": "david.m@example.com",
+    "created_at": "2023-07-22T08:15:00.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Jennifer Taylor",
+    "email": "jennifer.t@example.com",
+    "created_at": "2023-08-30T15:30:00.000Z"
+  },
+  {
+    "id": 9,
+    "name": "Christopher Anderson",
+    "email": "chris.a@example.com",
+    "created_at": "2023-09-05T10:10:00.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Jessica Thomas",
+    "email": "jessica.t@example.com",
+    "created_at": "2023-10-14T12:25:00.000Z"
+  }
+]
